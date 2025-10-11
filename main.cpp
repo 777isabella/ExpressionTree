@@ -250,9 +250,9 @@ int main()
 	//bool tag;
 
 	// open input file of expressions
-	inFile.open("more_expressions.txt");
+	inFile.open("expressions.txt");
 	// open output file
-	outFile.open("more_expressions_output.txt");
+	outFile.open("expressions_output.txt");
 
 	string line;
 	int line_num = 0;
