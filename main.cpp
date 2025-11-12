@@ -2,7 +2,7 @@
 Class:			CSCI 3333.01 Data Structures and Algorithms
 				Spring 2025
 Project 2:		Binary Arithmetic Expression Trees
-Name:			Coder Warrior
+Name:			Isabella Morgan
 ID:             11111111
 Description: Use stacks to build the binary expression tree for a given 
 	input binary arithmetic expression and do syntactic and semantic analysis.
